@@ -7,10 +7,6 @@ Según los ejercicios del LMS decidimos escoger páginas específicas para todas
 *¿CÓMO SE VA A ENTREGAR?*
 - En un proyecto de github que sólo va a traer un _README_, en el cual van a meter los tres puntos. El 1 y 2 más como un análisis y el 3 en una imagen digital (o las necesarias).
 
-Aprovechen el tiempo para hacer un análisis profundo desde UX
-
-
-
 
 
 ANALISIS DE LA PÁGINA WEB DE LABORATORIA
@@ -43,5 +39,5 @@ Alineación central en color blanco,texto blanco, espacio entre cajas.
 Icono de github, placeholder,menu, nuevo repositorio, usuario o perfil de usuario,
 div, listas,footer.
 
-
+Nota el Sketch se guardo en imagenes.
 
